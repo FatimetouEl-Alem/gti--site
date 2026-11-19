@@ -1,0 +1,18 @@
+LOGOS — à remplacer par les fichiers officiels
+
+Les images de ce dossier sont des emplacements provisoires.
+Remplacez chaque fichier par le logo officiel EN GARDANT LE MÊME NOM :
+
+references/
+  societe-generale.png   bcm.png   snim.png   cnam.png   gs.png
+
+projets/
+  visionplus.png  gti-palm.png  gti-olivex.png  inivae.png  e-tax.png
+  taxpay.png  entreprender.png  portail-ige.png  site-aje.png
+
+Conseils :
+- PNG à fond transparent (ou SVG renommé et chemin adapté), hauteur conseillée 120 px minimum.
+- Références : logo horizontal ; il s'affiche en gris puis en couleur au survol.
+- Projets : logo carré (icône), affiché en 48 × 48 px.
+- Utilisez les logos fournis par les clients (kit presse / charte graphique)
+  et vérifiez que GTI a leur accord pour les afficher.
